@@ -23,6 +23,12 @@ All available events:
 - prebuild
 - postbuild
 
+### Installation
+
+1. Download the latest release from [here](release)
+2. Add the `.jar` file in your `eclipse/plugins` directory.
+3. Restart eclipse
+
 
 ### Author
 
